@@ -1,4 +1,4 @@
-﻿# Hosting static website on aws EC2 Instance with Docker Container
+﻿# Hosting static website on AWS EC2 Instance with Docker Container
 
 ## Steps :
 
